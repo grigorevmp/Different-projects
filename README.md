@@ -1,11 +1,12 @@
 # Projects
 
-:heavy_multiplication_x: 3 completed
-:white_check_mark: 87 left
+:white_check_mark:3 completed
+
+:heavy_multiplication_x: 87 left
 
 A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories.
 
-**Numbers**
+** :1234: Numbers**
 
 > Languages: Python
 
