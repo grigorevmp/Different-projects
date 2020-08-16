@@ -7,6 +7,12 @@ A list of practical projects that anyone can solve in any programming language. 
 
 **Numbers**
 
+> Languages: Python
+
+- [ ] Add Java
+- [ ] Add C++
+- [ ] Add GO
+
 1. Pi: `Find pi up to the Nth decimal place`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/pi.py
 
@@ -26,7 +32,7 @@ https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/prime.py
 
 **Files**
 
-**Multimedia and Graphivs**
+**Multimedia and Graphics**
 
 **Graphs**
 
