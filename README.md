@@ -16,7 +16,7 @@ A list of practical projects that anyone can solve in any programming language. 
 >
 > `pyinstaller SCRIPT.py --onefile`
 
-1. Pi: `Python` `Find pi up to the Nth decimal place` https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi
+1. Pi: `Python` `Find pi up to the Nth decimal place` _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi_
 
 2. Fibonacci: `Python` `Java` `C++` `Generate N members of a Fibonacci series`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Fibonacci_
