@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 14 completed
+:white_check_mark: 15 completed
 
-:heavy_multiplication_x: 76 left
+:heavy_multiplication_x: 75 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -58,6 +58,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/CoinFlip_
 
 13. Credit card validation `Python` `Validate and find credit card type`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/CreditCard_
+
+14. Alarm `Python` `Simle timer`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Alarm_
 
 
 **Classic algorithms**
