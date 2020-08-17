@@ -18,7 +18,7 @@ A list of practical projects that anyone can solve in any programming language. 
 
 1. Pi: `Python` `Find pi up to the Nth decimal place` https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi
 
-2. Fibonacci: `Python` `C++` `Generate N members of a Fibonacci series`
+2. Fibonacci: `Python` `Java` `C++` `Generate N members of a Fibonacci series`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Fibonacci_
 
 3. Prime factors: `Python` `C++` `Get number prime factors with there exponent`
@@ -62,6 +62,8 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator_
 **Text**
 
 **Web**
+
+**Patterns**
 
 ---
 
