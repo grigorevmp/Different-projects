@@ -8,9 +8,9 @@ A list of practical projects that anyone can solve in any programming language. 
 
 **Numbers**
 
-> Languages: `Python`, `Java`, `C++`
+> **Used languages:** `Python`, `Java`, `C++`
 
-> To compile .exe from .py
+> **How to compile .exe from .py:**
 >
 > `pip install pyinstaller`
 >
