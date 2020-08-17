@@ -8,7 +8,8 @@ def BinToDec(num):
     n = 1
     result = 0
     for i in str(num)[::-1]:
-        if i == '1': result += n
+        if i == '1':
+            result += n
         n <<= 1
 
     return result

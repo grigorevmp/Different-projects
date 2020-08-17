@@ -33,10 +33,10 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Mortgage_
 6. Money changing `Python` `Calculate the change`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/MoneyChanging_
 
-7. Conversions `Python`  `Bin To Dec and Dec to Bin`
+7. Conversions `Python` `Bin To Dec and Dec to Bin`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
 
-8. Calculator `Python` `Just calculator`
+8. Calculator `Python` `Java` `C++` `Just calculator`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator_
 
 **Classic algorithms**
