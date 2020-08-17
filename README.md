@@ -1,8 +1,10 @@
 # Projects
 
-:white_check_mark: 9 completed
+:white_check_mark: 10 completed
 
-:heavy_multiplication_x: 81 left
+:heavy_multiplication_x: 80 left
+
+:heavy_multiplication_x: all patterns left
 
 A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories.
 
@@ -41,6 +43,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator_
 
 9. Factorial `Python` `Java` `C++` `Recursion and Cycle methods`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Factorial_
+
+10. Complex `Python` `C++` `Complex arithmetic`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Complex_
 
 **Classic algorithms**
 
