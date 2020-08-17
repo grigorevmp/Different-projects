@@ -1,9 +1,6 @@
 # Перевод из двоичной системы в десятичную и обратно
 # Bin To Dec and back
 
-import math
-
-
 def BinToDec(num):
     """
     num -> result

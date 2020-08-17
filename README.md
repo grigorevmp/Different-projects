@@ -39,6 +39,10 @@ https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/MoneyChanging
 `Bin To Dec and Dec to Bin`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions
 
+8. Calculator
+`Just calculator`
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator
+
 **Classic algorithms**
 
 **Classes**
