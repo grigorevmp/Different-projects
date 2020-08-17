@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 13 completed
+:white_check_mark: 14 completed
 
-:heavy_multiplication_x: 77 left
+:heavy_multiplication_x: 76 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -55,6 +55,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/NumToWords_
 
 13. Coin flip `Python` `Heads and tails`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/CoinFlip_
+
+13. Credit card validation `Python` `Validate and find credit card type`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/CreditCard_
 
 
 **Classic algorithms**
