@@ -10,11 +10,13 @@ A list of practical projects that anyone can solve in any programming language. 
 
 > Languages: Python
 >
-> Additional: EXE files
+> Additional: .exe files
 
-- [ ] Add Java
-- [ ] Add C++
-- [ ] Add GO
+> To compile .exe from .py
+>
+> pip install pyinstaller
+>
+> pyinstaller SCRIPT.py --onefile
 
 1. Pi: `Find pi up to the Nth decimal place`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi
