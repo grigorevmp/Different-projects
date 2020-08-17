@@ -47,6 +47,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Factorial_
 10. Complex `Python` `Java` `C++` `Complex arithmetic`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Complex_
 
+11. Happy Numbers `Python` `Found 8 happy numbers`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HappyNumber_
+
 **Classic algorithms**
 
 **Classes**
