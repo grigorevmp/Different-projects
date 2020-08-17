@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 3 completed
+:white_check_mark: 6 completed
 
-:heavy_multiplication_x: 87 left
+:heavy_multiplication_x: 84 left
 
 A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories.
 
@@ -30,6 +30,10 @@ https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/nextPrime
 
 5. Mortgage calculator: `Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate.`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Mortgage
+
+6. Money changing
+`Calculate the change`
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/MoneyChanging
 
 **Classic algorithms**
 
