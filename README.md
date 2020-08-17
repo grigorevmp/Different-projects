@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 6 completed
+:white_check_mark: 8 completed
 
-:heavy_multiplication_x: 84 left
+:heavy_multiplication_x: 82 left
 
 A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories.
 
