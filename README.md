@@ -35,6 +35,10 @@ https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Mortgage
 `Calculate the change`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/MoneyChanging
 
+7. Conversions
+`Bin To Dec and Dec to Bin`
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions
+
 **Classic algorithms**
 
 **Classes**
