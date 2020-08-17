@@ -39,7 +39,7 @@ int main() {
     - Print result
     */
 
-    cout << "-- Fibonacci series--" << endl;
+    cout << "-- Fibonacci series --" << endl;
 
     unsigned int num;
     bool rep = true;
