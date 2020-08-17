@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 10 completed
+:white_check_mark: 12 completed
 
-:heavy_multiplication_x: 80 left
+:heavy_multiplication_x: 78 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -49,6 +49,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Complex_
 
 11. Happy Numbers `Python` `Found 8 happy numbers`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HappyNumber_
+
+12. Num to words `Python` `Write number in English`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/NumToWords_
 
 **Classic algorithms**
 
