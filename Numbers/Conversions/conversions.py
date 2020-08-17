@@ -2,6 +2,8 @@ from math import ceil
 import urllib.request
 import json
 
+# SHOULD FULLY REWORK
+
 
 def currencyExchange(con_from, con_to, value):
     result = 0
