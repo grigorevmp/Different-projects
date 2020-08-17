@@ -1,85 +1,37 @@
-# Перевод из двоичной системы в десятичную и обратно
-# Bin To Dec and back
+from math import ceil
+import urllib.request
+import json
 
-def BinToDec(num):
-    """
-    num -> result
-    """
-    n = 1
+
+def currencyExchange(con_from, con_to, value):
     result = 0
-    for i in str(num)[::-1]:
-        if i == '1':
-            result += n
-        n <<= 1
-
+    curr_page = urllib.request.urlopen(
+        'http://openexchangerates.org/api/latest.json?app_id=9f0710764c064370932f4f2496968c62')
+    obj = curr_page.read().decode(encoding='UTF-8')
+    content = json.loads(obj)
+    try:
+        _from = content['rates'][con_from]
+        _to = content['rates'][con_to]
+        convert_amt = _to / _from
+        result = convert_amt * value
+    except:
+        raise NameError
     return result
 
 
-def DecToBin(num):
-    """
-    num -> result
-    """
-    result = ""
-    while num > 0:
-        result = str(num % 2) + result
-        num = num // 2
+class Converter:
+    _temps = {'cf': lambda c: c * (9 / 5) + 32,
+              'fc': lambda f: (f - 32) * (5 / 9),
+              'ck': lambda c: c + 273.15,
+              'kc': lambda k: k - 273.15,
+              'fk': lambda f: (f + 459.67) * 5 / 9,
+              'kf': lambda k: k * (9 / 5) - 459.67
+              }
 
-    return result
+    def tempConvert(self, msr_from, msr_to, amt):
+        try:
+            return self._temps[msr_from[0] + msr_to[0]](amt)
+        except KeyError:
+            "Cannot convert from {0} to {1}".format(msr_from, msr_to)
 
-
-def inputData():
-    """
-    <input> -> function, num
-    """
-    _function = input("Choose (Bin -> Dec), (Dec -> Bin) (0,[1]) ")
-    function = 0
-
-    try:
-        function = int(_function)
-    except ValueError:
-        print("Enter a positive integer.")
-
-    if function != 0:
-        function = 1
-
-    _num = input("Enter num: ")
-    num = 0
-
-    try:
-        num = int(_num)
-    except ValueError:
-        print("Enter a positive integer.")
-
-    return function, num
-
-
-def main():
-    """
-    Main function
-    - Get user's number
-    - Calculate result
-    - Print result
-    """
-
-    print("-- Conversions --\n")
-
-    shouldContinue = True
-
-    funcs = [BinToDec, DecToBin]
-
-    while shouldContinue:
-
-        function, num = inputData()
-        res = funcs[function](num)
-
-        print(f"Result: {res}")
-
-        should = input("\nContinue (Y/[N]): ")
-        if should.upper() != 'Y':
-            shouldContinue = False
-        else:
-            shouldContinue = True
-
-
-if __name__ == '__main__':
-    main()
+    pass

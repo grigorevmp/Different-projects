@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 16 completed
+:white_check_mark: 17 completed
 
-:heavy_multiplication_x: 74 left
+:heavy_multiplication_x: 73 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -64,6 +64,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Alarm_
 
 16. City distance `Python` `Use latitude and longitude of two cities to calculate a distance between them`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/cityDistance_
+
+17. Other conversions `Python` `Temperature, Money...`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/AllConversions_
 
 **Classic algorithms**
 
