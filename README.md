@@ -9,19 +9,24 @@ A list of practical projects that anyone can solve in any programming language. 
 **Numbers**
 
 > Languages: Python
+>
+> Additional: EXE files
 
 - [ ] Add Java
 - [ ] Add C++
 - [ ] Add GO
 
 1. Pi: `Find pi up to the Nth decimal place`
-https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/pi.py
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi
 
 2. Fibonacci: `Generate N members of a Fibonacci series`
-https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/fibonacci.py
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Fibonacci
 
 3. Prime factors: `Get number prime factors with there exponent`
-https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/prime.py
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Prime
+
+4. Next prime number: `Generate prime numbers until the user chooses to stop`
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/nextPrime
 
 **Classic algorithms**
 
