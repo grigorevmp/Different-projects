@@ -44,7 +44,7 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator_
 9. Factorial `Python` `Java` `C++` `Recursion and Cycle methods`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Factorial_
 
-10. Complex `Python` `C++` `Complex arithmetic`
+10. Complex `Python` `Java` `C++` `Complex arithmetic`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Complex_
 
 **Classic algorithms**
