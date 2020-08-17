@@ -28,6 +28,9 @@ https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Prime
 4. Next prime number: `Generate prime numbers until the user chooses to stop`
 https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/nextPrime
 
+5. Mortgage calculator: `Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate.`
+https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Mortgage
+
 **Classic algorithms**
 
 **Classes**
