@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 28 completed
+:white_check_mark: 30 completed
 
-:heavy_multiplication_x: 62 left
+:heavy_multiplication_x: 60 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -106,6 +106,12 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/SimpleGraph_
 
 28. Connected Graph `Python` `Check if every vertex of graph is connected`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/ConnectedGraph_
+
+29. Dijkstra `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/ConnectedGraph_
+
+30. Eulerian `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/Eulerian_
 
 # TODO
 
