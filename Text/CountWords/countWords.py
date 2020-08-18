@@ -1,11 +1,11 @@
-# Гипотеза Коллатца
-# Collatz
+# Счётчик слов
+# Count Words
 
 def countWords(string=None, file=None):
     """
     :param string: - If user wants to work with string
     :param file: -  If user wants to work with file
-    :return: - Word count
+    :return: - Words count
     """
     word_count = 0
     if string:
@@ -31,7 +31,7 @@ def main():
     - Reverse it
     """
 
-    print("-- Palindrome --\n")
+    print("-- Count words --\n")
 
     shouldContinue = True
 

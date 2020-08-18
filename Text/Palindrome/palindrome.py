@@ -1,5 +1,5 @@
-# Гипотеза Коллатца
-# Collatz
+# Палиндром
+# Palindrome
 
 def palindrome(string):
     """

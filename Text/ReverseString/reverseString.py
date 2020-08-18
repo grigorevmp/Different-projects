@@ -1,5 +1,5 @@
-# Гипотеза Коллатца
-# Collatz
+# Разворот строки
+# Reverse string
 
 def reverse(string):
     """

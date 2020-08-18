@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 24 completed
+:white_check_mark: 25 completed
 
-:heavy_multiplication_x: 66 left
+:heavy_multiplication_x: 65 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -92,6 +92,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/Palindrome_
 
 24. Count words `Python` `And nothing more`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/CountWords_
+
+25. Count vowels `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Text/CountVowels_
 
 # TODO
 
