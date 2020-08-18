@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 22 completed
+:white_check_mark: 23 completed
 
-:heavy_multiplication_x: 68 left
+:heavy_multiplication_x: 67 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -87,6 +87,8 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/ClassicAlgorithms/Sort
 22. String reverse `Python` `And nothing more`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/ReverseString_
 
+23. Palindrome `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Text/Palindrome_
 
 # TODO
 

@@ -13,7 +13,7 @@ def inputString():
     """
     <input> -> string
     """
-    string = input("Enter string to revrse: ")
+    string = input("Enter string to reverse: ")
     return string
 
 
