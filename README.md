@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 19 completed
+:white_check_mark: 20 completed
 
-:heavy_multiplication_x: 71 left
+:heavy_multiplication_x: 70 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -75,6 +75,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Collatz_
 
 19. Sieve of Eratosthenes `Python` `Easy way to find prime numbers`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/SieveofEratosthenes_
+
+20. Closest pair problem `Python` `Calculate the smallest distance.`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/ClosestPairProblen_
 
 **Classes**
 
