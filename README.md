@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 27 completed
+:white_check_mark: 28 completed
 
-:heavy_multiplication_x: 63 left
+:heavy_multiplication_x: 62 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -102,7 +102,10 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/PigLatin_
 **Graphs**
 
 27. Graph `Python` `And nothing more`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Text/SimpleGraph_
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/SimpleGraph_
+
+28. Connected Graph `Python` `Check if every vertex of graph is connected`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/ConnectedGraph_
 
 # TODO
 
