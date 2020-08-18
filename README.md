@@ -82,27 +82,31 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/ClosestPairPro
 21. Sorting `Python` `Bubble, Selection, Insertion, Heap, Merge, Quick sorting`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Sorting_
 
-**Classes**
-
-**Data structures**
-
-**Databases**
-
-**Files**
-
-**Multimedia and Graphics**
+# TODO
 
 **Graphs**
 
-**Multithreading**
-
-**Networks**
-
-**Safety**
+**Data structures**
 
 **Text**
 
+**Networks**
+
+**Classes**
+
+**Multithreading**
+
 **Web**
+
+**Files**
+
+**Databases**
+
+**Multimedia and Graphics**
+
+**Safety**
+
+# Plans
 
 **Patterns**
 
