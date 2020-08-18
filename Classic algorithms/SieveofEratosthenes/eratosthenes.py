@@ -1,21 +1,17 @@
-# Гипотеза Коллатца
-# Collatz
+# Сфера эратосфена
+# Sieve of Eratosthenes
 
-def collatz(num):
+def sieve(num):
     """
     num -> steps
     """
-    steps = 0
 
-    while num != 1:
-        if num % 2 == 0:
-            num /= 2
-        else:
-            num *= 3
-            num += 1
-        steps += 1
-
-    return steps
+    is_prime = [False] * 2 + [True] * (num - 1)
+    for i in range(int(num ** 0.5 + 1.5)):
+        if is_prime[i]:
+            for j in range(i * i, num + 1, i):
+                is_prime[j] = False
+    return [i for i, prime in enumerate(is_prime) if prime]
 
 
 def inputNum():
@@ -40,15 +36,15 @@ def main():
     - Print result
     """
 
-    print("-- Sieve of Eratosthenes --\n")
+    print("-- Fibonacci series --\n")
 
     shouldContinue = True
 
     while shouldContinue:
 
         num = inputNum()
-        steps = collatz(num)
-        print(steps)
+        nums = sieve(num)
+        print(nums)
 
         should = input("\nContinue (Y/[N]): ")
         if should.upper() != 'Y':
