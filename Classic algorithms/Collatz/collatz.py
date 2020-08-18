@@ -40,7 +40,7 @@ def main():
     - Print result
     """
 
-    print("-- Sieve of Eratosthenes --\n")
+    print("-- Collatz --\n")
 
     shouldContinue = True
 
