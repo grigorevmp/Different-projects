@@ -35,8 +35,8 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Mortgage_
 6. Money changing `Python` `Calculate the change`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/MoneyChanging_
 
-7. Conversions `Python` `Bin To Dec and Dec to Bin`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
+7. Conversions `Python` `Numeric base conversions`
+_United with 17_
 
 8. Calculator `Python` `Java` `C++` `Just calculator`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Calculator_
@@ -65,8 +65,8 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Alarm_
 16. City distance `Python` `Use latitude and longitude of two cities to calculate a distance between them`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/cityDistance_
 
-17. Other conversions `Python` `Temperature, Money...`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/AllConversions_
+17. Other conversions `Python` `Numeric base, Temperature, Distance, Weight...`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
 
 **Classic algorithms**
 
