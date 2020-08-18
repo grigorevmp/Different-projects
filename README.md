@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 26 completed
+:white_check_mark: 27 completed
 
-:heavy_multiplication_x: 64 left
+:heavy_multiplication_x: 63 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -99,9 +99,12 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/CountVowels_
 26. Pig latin `Python` `And nothing more`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/PigLatin_
 
-# TODO
-
 **Graphs**
+
+27. Graph `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Text/SimpleGraph_
+
+# TODO
 
 **Data structures**
 
