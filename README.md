@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 20 completed
+:white_check_mark: 21 completed
 
-:heavy_multiplication_x: 70 left
+:heavy_multiplication_x: 69 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -78,6 +78,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/SieveofEratost
 
 20. Closest pair problem `Python` `Calculate the smallest distance.`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/ClosestPairProblen_
+
+21. Sorting `Python` `Bubble, Selection, Insertion, Heap, Merge, Quick sorting`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Sorting_
 
 **Classes**
 
