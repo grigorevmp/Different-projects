@@ -3,7 +3,7 @@
 
 def palindrome(string):
     """
-    :param string: - orginal string
+    :param string: - original string
     :return: - reversed string
     """
     return string == string[::-1]
