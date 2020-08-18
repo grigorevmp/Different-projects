@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 25 completed
+:white_check_mark: 26 completed
 
-:heavy_multiplication_x: 65 left
+:heavy_multiplication_x: 64 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -95,6 +95,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/CountWords_
 
 25. Count vowels `Python` `And nothing more`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/CountVowels_
+
+26. Pig latin `Python` `And nothing more`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Text/PigLatin_
 
 # TODO
 
