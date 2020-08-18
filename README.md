@@ -101,17 +101,17 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/PigLatin_
 
 **Graphs**
 
-27. Graph `Python` `And nothing more`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/SimpleGraph_
+27. Graph `Python`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs_
 
-28. Connected Graph `Python` `Check if every vertex of graph is connected`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/ConnectedGraph_
+28. Connected Graph `Python`
+_As for 27_
 
-29. Dijkstra `Python` `And nothing more`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/ConnectedGraph_
+29. Dijkstra `Python`
+_As for 27_
 
-30. Eulerian `Python` `And nothing more`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs/Eulerian_
+30. Eulerian `Python`
+_As for 27_
 
 # TODO
 
