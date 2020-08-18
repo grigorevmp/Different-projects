@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 17 completed
+:white_check_mark: 18 completed
 
-:heavy_multiplication_x: 73 left
+:heavy_multiplication_x: 72 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -69,6 +69,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/cityDistance_
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/AllConversions_
 
 **Classic algorithms**
+
+18. Collatz `Python` `Collatz conjecture realisation`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Collatz_
 
 **Classes**
 
