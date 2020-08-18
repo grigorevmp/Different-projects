@@ -36,7 +36,7 @@ def main():
     - Print result
     """
 
-    print("-- Fibonacci series --\n")
+    print("-- Sieve of Eratosthenes --\n")
 
     shouldContinue = True
 

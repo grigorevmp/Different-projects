@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 18 completed
+:white_check_mark: 19 completed
 
-:heavy_multiplication_x: 72 left
+:heavy_multiplication_x: 71 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -72,6 +72,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/AllConversions
 
 18. Collatz `Python` `Collatz conjecture realisation`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Collatz_
+
+19. Sieve of Eratosthenes `Python` `Easy way to find prime numbers`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/SieveofEratosthenes_
 
 **Classes**
 
