@@ -1,12 +1,18 @@
 # Projects
 
-:white_check_mark: 30 completed
+:white_check_mark: 31 completed
 
-:heavy_multiplication_x: 60 left
+:heavy_multiplication_x: 59 left
 
 :heavy_multiplication_x: all patterns left
 
 A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories.
+
+---
+
+**Ideas from** _https://proglib.io/p/project-list/amp/_
+
+---
 
 **Numbers**
 
@@ -113,6 +119,12 @@ _As for 27_
 30. Eulerian `Python`
 _As for 27_
 
+**Security**
+
+31. Caesar cipher `Python` `Encoding and decoding message`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/CaesarCipher_
+
+
 # TODO
 
 **Data structures**
@@ -131,13 +143,8 @@ _As for 27_
 
 **Multimedia and Graphics**
 
-**Safety**
-
 # Plans
 
 **Patterns**
 
----
-
-**Ideas from** _https://proglib.io/p/project-list/amp/_
 
