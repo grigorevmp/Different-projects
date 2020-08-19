@@ -130,6 +130,11 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VigenereCiphe
 33. Vernam cipher `Python` `Encoding and decoding message`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher_
 
+**Web**
+
+34. Get weather `Python` 
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Web/Weather_
+
 # TODO
 
 **Data structures**
@@ -139,8 +144,6 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher_
 **Classes**
 
 **Multithreading**
-
-**Web**
 
 **Files**
 
