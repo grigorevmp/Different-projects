@@ -1,13 +1,19 @@
 from math import pi, sqrt
+from abc import ABC, abstractmethod
 
 """
 Shapes
+
+I use @property and @abstractmethod for the first time and it's really cool thing
 """
 
-class Shape:
+
+class Shape(ABC):
+    @abstractmethod
     def area(self):
         pass
 
+    @abstractmethod
     def perimeter(self):
         pass
 
