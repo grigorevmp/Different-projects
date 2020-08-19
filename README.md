@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 31 completed
+:white_check_mark: 33 completed
 
-:heavy_multiplication_x: 59 left
+:heavy_multiplication_x: 58 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -124,6 +124,11 @@ _As for 27_
 31. Caesar cipher `Python` `Encoding and decoding message`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Security/CaesarCipher_
 
+32. Vigenere cipher `Python` `Encoding and decoding message`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VigenereCipher_
+
+33. Vernam cipher `Python` `Encoding and decoding message`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher_
 
 # TODO
 
