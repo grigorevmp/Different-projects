@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 35 completed
+:white_check_mark: 36 completed
 
-:heavy_multiplication_x: 56 left
+:heavy_multiplication_x: 55 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -139,6 +139,10 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Web/Weather_
 
 35. Shape `Python` 
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/Shape_
+
+36. Bank Account `Python` 
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/BankAccount_
+
 
 # TODO
 
