@@ -1,8 +1,8 @@
 # Projects
 
-:white_check_mark: 34 completed
+:white_check_mark: 35 completed
 
-:heavy_multiplication_x: 57 left
+:heavy_multiplication_x: 56 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -135,13 +135,16 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher_
 34. Get weather `Python` 
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Web/Weather_
 
+**Classes**
+
+35. Shape `Python` 
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/Shape_
+
 # TODO
 
 **Data structures**
 
 **Networks**
-
-**Classes**
 
 **Multithreading**
 
