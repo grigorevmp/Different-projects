@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 40 completed
+:white_check_mark: 41 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -48,6 +48,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Tribonacci_
 
 40. Split Strings `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SplitStrings_
+
+41. Spin Words `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SpinWords_
 
 **Numbers**
 
