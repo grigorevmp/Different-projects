@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 39 completed
+:white_check_mark: 40 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -96,6 +96,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HL_
 
 39. Tribonacci `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Tribonacci_
+
+40. Split Strings `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/SplitStrings_
 
 **Classic algorithms**
 
