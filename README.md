@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 37 completed
+:white_check_mark: 38 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -76,6 +76,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
 
 18. IQ Test `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/IQ_Test_
+
+19. Highest and Lowest `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HL_
 
 **Classic algorithms**
 
