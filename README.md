@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 38 completed
+:white_check_mark: 39 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -10,19 +10,33 @@ A list of practical projects that anyone can solve in any programming language. 
 
 ---
 
-**Ideas from** _https://proglib.io/p/project-list/amp/_
+**Ideas from:** 
+
+> _https://proglib.io/p/project-list/amp/_
+
+> _https://www.codewars.com/_
 
 ---
 
-**Numbers**
+**Tags:**
+
+> **Special:** `CodeWars`
 
 > **Used languages:** `Python`, `Java`, `C++`
+
+---
+
+**Instruction:**
 
 > **How to compile .exe from .py:**
 >
 > `pip install pyinstaller`
 >
 > `pyinstaller SCRIPT.py --onefile`
+
+---
+
+**Numbers**
 
 1. Pi: `Python` `Find pi up to the Nth decimal place` _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Pi_
 
@@ -74,11 +88,14 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/cityDistance_
 17. Other conversions `Python` `Numeric base, Temperature, Distance, Weight...`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
 
-18. IQ Test `Python` `CodeWars`
+37. IQ Test `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/IQ_Test_
 
-19. Highest and Lowest `Python` `CodeWars`
+38. Highest and Lowest `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HL_
+
+39. Tribonacci `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Tribonacci_
 
 **Classic algorithms**
 
