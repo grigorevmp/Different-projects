@@ -35,6 +35,19 @@ A list of practical projects that anyone can solve in any programming language. 
 > `pyinstaller SCRIPT.py --onefile`
 
 ---
+**CodeWars Katas**
+
+37. IQ Test `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/IQ_Test_
+
+38. Highest and Lowest `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/HL_
+
+39. Tribonacci `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Tribonacci_
+
+40. Split Strings `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SplitStrings_
 
 **Numbers**
 
@@ -87,18 +100,6 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/cityDistance_
 
 17. Other conversions `Python` `Numeric base, Temperature, Distance, Weight...`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Conversions_
-
-37. IQ Test `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/IQ_Test_
-
-38. Highest and Lowest `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/HL_
-
-39. Tribonacci `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/Tribonacci_
-
-40. Split Strings `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Numbers/SplitStrings_
 
 **Classic algorithms**
 
