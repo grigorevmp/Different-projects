@@ -10,7 +10,14 @@
 # spinWords( "This is a test") => returns "This is a test"
 # spinWords( "This is another test" )=> returns "This is rehtona test"
 
+# BEST
+def spin_words2(sentence):
+    words = [word for word in sentence.split(" ")]
+    words = [word if len(word) < 5 else word[::-1] for word in words]
+    return " ".join(words)
 
+
+# MY
 def spin_words(sentence):
     new = ""
     for s in sentence.split():
