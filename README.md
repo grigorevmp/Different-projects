@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 45 completed
+:white_check_mark: 46 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -63,6 +63,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SumofIntervals_
 
 45. Valid Parentheses `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/ValidParentheses_
+
+46. Sort the odd `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Sorttheodd_
 
 **Numbers**
 
