@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 43 completed
+:white_check_mark: 44 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -57,6 +57,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/NextBigger_
 
 43. Strings Mix `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/StringsMix_
+
+44. Sum of Intervals `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SumofIntervals_
 
 **Numbers**
 
