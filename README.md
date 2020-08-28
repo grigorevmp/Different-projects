@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 41 completed
+:white_check_mark: 43 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -51,6 +51,12 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SplitStrings_
 
 41. Spin Words `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SpinWords_
+
+42. Next Bigger `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/NextBigger_
+
+43. Strings Mix `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/StringsMix_
 
 **Numbers**
 
