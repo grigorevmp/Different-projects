@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 44 completed
+:white_check_mark: 45 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -60,6 +60,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/StringsMix_
 
 44. Sum of Intervals `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SumofIntervals_
+
+45. Valid Parentheses `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/ValidParentheses_
 
 **Numbers**
 
