@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 49 completed
+:white_check_mark: 51 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -36,6 +36,8 @@ A list of practical projects that anyone can solve in any programming language. 
 
 ---
 **CodeWars Katas**
+
+https://www.codewars.com/users/MikhailGrigorevP/badges/large
 
 37. IQ Test `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/IQ_Test_
@@ -75,6 +77,12 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/AlphabetPosition_
 
 49. Alphabet anagram `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Anagram_
+
+50. Make a spiral `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/MakeSpiral_
+
+51. Simplifying multilinear polynomials `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Simplifying_
 
 **Numbers**
 
