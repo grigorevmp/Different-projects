@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 48 completed
+:white_check_mark: 49 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -72,6 +72,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/BuildTower_
 
 48. Alphabet Position `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/AlphabetPosition_
+
+49. Alphabet anagram `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Anagram_
 
 **Numbers**
 

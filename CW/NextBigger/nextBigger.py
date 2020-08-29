@@ -11,10 +11,10 @@ def next_bigger(n):
     if int("".join(sorted(str(n), reverse=True))) == n:
         return -1
     num = list(str(n))
-    for i in range(len(num)-1, 0, -1):
-        if num[i] > num[i-1]:
-            head=num[:i]
-            tail=num[i:]
+    for i in range(len(num) - 1, 0, -1):
+        if num[i] > num[i - 1]:
+            head = num[:i]
+            tail = num[i:]
             break
     minB = sorted(list(tail))
     while minB[0] <= head[-1]:
