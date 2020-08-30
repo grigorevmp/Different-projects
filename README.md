@@ -1,6 +1,6 @@
 # Projects
 
-:white_check_mark: 51 completed
+:white_check_mark: 52 completed
 
 :heavy_multiplication_x: 55 left
 
@@ -83,6 +83,9 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/MakeSpiral_
 
 51. Simplifying multilinear polynomials `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Simplifying_
+
+52. Evaluate Mathematical Expression `Python` `CodeWars`
+_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/EvaluateMathematicalExpression_
 
 **Numbers**
 
