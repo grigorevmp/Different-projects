@@ -37,7 +37,8 @@ A list of practical projects that anyone can solve in any programming language. 
 ---
 **CodeWars Katas**
 
-https://www.codewars.com/users/MikhailGrigorevP/badges/large
+![My badge](https://www.codewars.com/users/MikhailGrigorevP/badges/large)
+
 
 37. IQ Test `Python` `CodeWars`
 _https://github.com/MikhailGrigorevP/Projects/blob/master/CW/IQ_Test_
