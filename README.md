@@ -40,53 +40,39 @@ A list of practical projects that anyone can solve in any programming language. 
 ![My badge](https://www.codewars.com/users/MikhailGrigorevP/badges/large)
 
 
-37. IQ Test `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/IQ_Test_
+37. [IQ Test](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/IQ_Test) `Python` `CodeWars`
 
-38. Highest and Lowest `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/HL_
+38. [Highest and Lowest](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/HL) `Python` `CodeWars`
 
-39. Tribonacci `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Tribonacci_
+39. [Tribonacci](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Tribonacci) `Python` `CodeWars`
 
-40. Split Strings `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SplitStrings_
+40. [Split Strings](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SplitStrings) `Python` `CodeWars`
 
-41. Spin Words `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SpinWords_
+41. [Spin Words](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SpinWords) `Python` `CodeWars`
 
-42. Next Bigger `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/NextBigger_
+42. [Next Bigger](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/NextBigger) `Python` `CodeWars`
 
-43. Strings Mix `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/StringsMix_
+43. [Strings Mix](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/StringsMix) `Python` `CodeWars`
 
-44. Sum of Intervals `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SumofIntervals_
+44. [Sum of Intervals](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/SumofIntervals) `Python` `CodeWars`
 
-45. Valid Parentheses `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/ValidParentheses_
+45. [Valid Parentheses](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/ValidParentheses) `Python` `CodeWars`
 
-46. Sort the odd `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Sorttheodd_
+46. [Sort the odd](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Sorttheodd) `Python` `CodeWars`
 
-47. Build Tower `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/BuildTower_
+47. [Build Tower](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/BuildTower) `Python` `CodeWars`
 
-48. Alphabet Position `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/AlphabetPosition_
+48. [Alphabet Position](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/AlphabetPosition) `Python` `CodeWars`
 
-49. Alphabet anagram `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Anagram_
+49. [Alphabet anagram](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Anagram) `Python` `CodeWars`
+__
 
-50. Make a spiral `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/MakeSpiral_
+50. [Make a spiral](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/MakeSpiral) `Python` `CodeWars`
+__
 
-51. Simplifying multilinear polynomials `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Simplifying_
+51. [Simplifying multilinear polynomials](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Simplifying) `Python` `CodeWars`
 
-52. Evaluate Mathematical Expression `Python` `CodeWars`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/CW/EvaluateMathematicalExpression_
+52. [Evaluate Mathematical Expression](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/EvaluateMathematicalExpression) `Python` `CodeWars`
 
 **Numbers**
 
@@ -173,41 +159,32 @@ _https://github.com/MikhailGrigorevP/Projects/blob/master/Text/PigLatin_
 
 **Graphs**
 
-27. Graph `Python`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs_
+27. [Graph](https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs) `Python`
 
-28. Connected Graph `Python`
-_As for 27_
+28. [Connected] Graph(https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs) `Python`
 
-29. Dijkstra `Python`
-_As for 27_
+29. [Dijkstra](https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs) `Python`
 
-30. Eulerian `Python`
-_As for 27_
+30. [Eulerian](https://github.com/MikhailGrigorevP/Projects/blob/master/Graphs) `Python`
 
 **Security**
 
-31. Caesar cipher `Python` `Encoding and decoding message`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/CaesarCipher_
+31. [Caesar cipher](https://github.com/MikhailGrigorevP/Projects/blob/master/Security/CaesarCipher) `Python` `Encoding and decoding message`
 
-32. Vigenere cipher `Python` `Encoding and decoding message`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VigenereCipher_
+32. [Vigenere cipher](https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VigenereCipher) `Python` `Encoding and decoding message`
 
-33. Vernam cipher `Python` `Encoding and decoding message`
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher_
+33. [Vernam cipher](https://github.com/MikhailGrigorevP/Projects/blob/master/Security/VernamCipher) `Python` `Encoding and decoding message`
 
 **Web**
 
-34. Get weather `Python` 
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Web/Weather_
+34. [Get weather](https://github.com/MikhailGrigorevP/Projects/blob/master/Web/Weather) `Python` 
 
 **Classes**
 
-35. Shape `Python` 
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/Shape_
+35. [Shape](https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/Shape) `Python` 
 
-36. Bank Account `Python` 
-_https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/BankAccount_
+36. [Bank Account](https://github.com/MikhailGrigorevP/Projects/blob/master/Classes/BankAccount) `Python` 
+
 
 
 # TODO
