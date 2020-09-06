@@ -2,7 +2,7 @@
 
 :white_check_mark: 52 completed
 
-:heavy_multiplication_x: 55 left
+:heavy_multiplication_x: 56 left
 
 :heavy_multiplication_x: all patterns left
 
@@ -69,6 +69,8 @@ A list of practical projects that anyone can solve in any programming language. 
 51. [Simplifying multilinear polynomials](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/Simplifying) `Python` 
 
 52. [Evaluate Mathematical Expression](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/EvaluateMathematicalExpression) `Python` 
+
+53. [Digit position **_[NOT SOLVED]_**](https://github.com/MikhailGrigorevP/Projects/blob/master/CW/DigitPostion) `Python` 
 
 **Numbers**
 
