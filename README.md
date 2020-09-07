@@ -1,8 +1,12 @@
 # Projects
 
+## Mini-project
+
 :white_check_mark: 52 completed
 
 :heavy_multiplication_x: 56 left
+
+## Patterns
 
 :heavy_multiplication_x: all patterns left
 
