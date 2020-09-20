@@ -30,7 +30,9 @@ A list of practical projects that anyone can solve in any programming language. 
 
 **Instructions:**
 
-> **1. How to compile .exe from .py:**
+> **[1. How to use Git:](https://github.com/MikhailGrigorevP/Projects/blob/master/Git/guide.md)**
+
+> **2. How to compile .exe from .py:**
 >
 > `pip install pyinstaller`
 >
