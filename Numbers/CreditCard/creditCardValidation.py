@@ -14,8 +14,7 @@ def luhn(code):
     digits = digits_of(code)
     odd_digits = digits[-1::-2]
     even_digits = digits[-2::-2]
-    checksum = 0
-    checksum += sum(odd_digits)
+    checksum = sum(odd_digits)
     for d in even_digits:
         checksum += sum(digits_of(d * 2))
     return checksum % 10 == 0
