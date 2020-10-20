@@ -40,8 +40,8 @@ def comparator(value, key):
     full = 0
     for i in value:
         dic[full] = [i, key[iter]]
-        full = full + 1
-        iter = iter + 1
+        full += 1
+        iter += 1
         if (iter >= len_key):
             iter = 0
 

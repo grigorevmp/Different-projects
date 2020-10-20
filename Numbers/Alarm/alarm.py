@@ -16,7 +16,7 @@ def playSound():
 
 def createAlarm(n):
     print()
-    print("You'll here the alarm in:", n, "seconds.")
+    print("You'll hear the alarm in:", n, "seconds.")
     time.sleep(n)
     playSound()
 

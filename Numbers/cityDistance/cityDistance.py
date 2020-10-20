@@ -10,7 +10,7 @@ locator = Nominatim(user_agent="cityDistance")
 
 
 def get_distance(locA, locB):
-    # use haversine forumla
+    # use haversine formula
     earth_rad = 6371.0
     dlat = np.deg2rad(locB[0] - locA[0])
     dlon = np.deg2rad(locB[1] - locA[1])
