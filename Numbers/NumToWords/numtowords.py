@@ -38,15 +38,8 @@ def numToArray(num):
     num -> num array
     """
     numArray = [0, 0, 0, 0, 0, 0, 0, 0, 0]
-    numArray[0] = num // 100000000 % 10
-    numArray[1] = num // 10000000 % 10
-    numArray[2] = num // 1000000 % 10
-    numArray[3] = num // 100000 % 10
-    numArray[4] = num // 10000 % 10
-    numArray[5] = num // 1000 % 10
-    numArray[6] = num // 100 % 10
-    numArray[7] = num // 10 % 10
-    numArray[8] = num // 1 % 10
+    for i in range(9):
+        numArray[i] = num // 10**(8 - i) % 10
     return numArray
 
 
@@ -66,26 +59,26 @@ def numToWords(num):
     word = ''
     if num == 0:
         word = 'zero'
-    if 1 <= num <= 9:
+    elif 1 <= num <= 9:
         word = units[num]
-    if 10 <= num <= 19:
+    elif 10 <= num <= 19:
         word = teens[num % 10]
-    if 20 <= num <= 99:
+    elif 20 <= num <= 99:
         word += tens[num // 10]
         if numArray[8] != 0:
             word += ' ' + units[num % 10]
 
-    if 100 <= num <= 999:
+    elif 100 <= num <= 999:
         word += units[numArray[6]] + ' hundred '
         if not hasTrailingZeros(numArray):
             word += numToWords(numArray[7] * 10 + numArray[8])
 
-    if 1000 <= num <= 999999:
+    elif 1000 <= num <= 999999:
         word += numToWords(numArray[3] * 100 + numArray[4] * 10 + numArray[5]) + ' thousand '
         if not hasTrailingZeros(numArray):
             word += numToWords(numArray[6] * 100 + numArray[7] * 10 + numArray[8])
 
-    if 1000000 <= num <= 999999999:
+    elif 1000000 <= num <= 999999999:
         word += numToWords(numArray[0] * 100 + numArray[1] * 10 + numArray[2]) + ' million '
         if not hasTrailingZeros(numArray):
             word += numToWords(
@@ -101,23 +94,23 @@ def numToOrdinal(num):
     place = ''
     if num == 0:
         place = 'zeroth'
-    if 1 <= num <= 9:
+    elif 1 <= num <= 9:
         place = places[num]
-    if 10 <= num <= 19:
+    elif 10 <= num <= 19:
         place = teenPlaces[num % 10]
-    if 20 <= num <= 99:
+    elif 20 <= num <= 99:
         if numArray[8] == 0:
             place += tensPlaces[num // 10]
         else:
             place += tens[num // 10] + ' ' + places[num % 10]
 
-    if 100 <= num <= 999:
+    elif 100 <= num <= 999:
         if hasTrailingZeros(numArray):
             place += units[numArray[6]] + ' hundredth'
         else:
             place += units[numArray[6]] + ' hundred ' + numToOrdinal(numArray[7] * 10 + numArray[8])
 
-    if 1000 <= num <= 999999:
+    elif 1000 <= num <= 999999:
         if hasTrailingZeros(numArray):
             place += numToWords(numArray[3] * 100 + numArray[4] * 10 + numArray[5]) + ' thousandth'
         else:
@@ -125,7 +118,7 @@ def numToOrdinal(num):
             if not hasTrailingZeros(numArray):
                 place += numToOrdinal(numArray[6] * 100 + numArray[7] * 10 + numArray[8])
 
-    if 1000000 <= num <= 999999999:
+    elif 1000000 <= num <= 999999999:
         if hasTrailingZeros(numArray):
             place += numToWords(numArray[0] * 100 + numArray[1] * 10 + numArray[2]) + ' millionth'
         else:
