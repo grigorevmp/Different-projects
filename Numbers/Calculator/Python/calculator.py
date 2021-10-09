@@ -3,46 +3,46 @@
 
 import math
 
+class Calculator():
 
-def calc(a, b, op):
-    """
-    a, b, op -> result
-    """
+    def __init__(self):
+        self.op = 0
+        self.b = 0
+        self.op = ''
+        self.op_list = '+-/*^'
 
-    if op not in '+-/*^':
-        return 'Please only type one of these characters: "+, -, *, /"!'
+    def run(self):
+        """
+        a, b, op -> result
+        """
 
-    if op == '+':
-        return str(a) + ' ' + op + ' ' + str(b) + ' = ' + str(a + b)
-    if op == '-':
-        return str(a) + ' ' + op + ' ' + str(b) + ' = ' + str(a - b)
-    if op == '*':
-        return str(a) + ' ' + op + ' ' + str(b) + ' = ' + str(a * b)
-    if op == '/':
-        return str(a) + ' ' + op + ' ' + str(b) + ' = ' + str(a / b)
-    if op == '^':
-        return str(a) + ' ' + op + ' ' + str(b) + ' = ' + str(math.pow(a, b))
+        if self.op not in '+-/*^':
+            return 'Please only type one of these characters: "+, -, *, /"!'
 
+        if self.op == '+':
+            return str(self.a) + ' ' + self.op + ' ' + str(self.b) + ' = ' + str(self.a + self.b)
+        if self.op == '-':
+            return str(self.a) + ' ' + self.op + ' ' + str(self.b) + ' = ' + str(self.a - self.b)
+        if self.op == '*':
+            return str(self.a) + ' ' + self.op + ' ' + str(self.b) + ' = ' + str(self.a * self.b)
+        if self.op == '/':
+            return str(self.a) + ' ' + self.op + ' ' + str(self.b) + ' = ' + str(self.a / self.b)
+        if self.op == '^':
+            return str(self.a) + ' ' + self.op + ' ' + str(self.b) + ' = ' + str(math.pow(self.a, self.b))
 
-def inputData():
-    """
-    <input> -> a, b, op
-    """
+    def inputData(self):
+        """
+        <str> -> a, op, b
+        """
+        try:
+            data = input('Type the expression, like "12 + 4" (dont forget spaces!): ')
+            data_arr = data.split()
+            self.a = int(data_arr[0])
+            self.op = data_arr[1]
+            self.b = int(data_arr[2])
 
-    a = 0
-    b = 0
-    op = '-'
-
-    try:
-        a = int(input('Type the first number: '))
-        b = int(input('Type the second number: '))
-        op = input(
-            'What kind of operation would you like to do?\
-            \nChoose between +, -, *, /, ^ : ')
-    except ValueError:
-        print("Enter a positive integer.")
-
-    return a, b, op
+        except ValueError:
+            print("Enter a positive integer.")
 
 
 def main():
@@ -57,10 +57,12 @@ def main():
 
     shouldContinue = True
 
+    calc = Calculator()
+
     while shouldContinue:
 
-        a, b, op = inputData()
-        print(calc(a, b, op))
+        calc.inputData()
+        print(calc.run())
 
         should = input("\nContinue (Y/[N]): ")
         if should.upper() != 'Y':
