@@ -1,19 +1,28 @@
 # Счётчик слов
 # Count Words
 
-def countWords(string=None, file=None):
-    """
-    :param string: - If user wants to work with string
-    :param file: -  If user wants to work with file
-    :return: - Words count
-    """
-    word_count = 0
-    if string:
-        word_count = len(string.split())
-    if file:
-        with open(file) as f:
-            word_count = len(f.read().split())
-    return word_count
+class WordCounter:
+
+    def __init__(self):
+        self.words = 0
+        self.data = None
+
+    def countWords(self, string=None, file=None):
+        """
+        :param string: - If user wants to work with string
+        :param file: -  If user wants to work with file
+        :return: - Words count
+        """
+        if string:
+            self.data = ''.join(c for c in string if (c.isalpha() or c == ' '))
+        if file:
+            with open(file) as f:
+                self.data = ''.join(c for c in f.read() if (c.isalpha() or c == ' '))
+        self.words = len(self.data.split())
+        print(self.data)
+
+    def showResult(self):
+        print(f"Word number: {self.words}")
 
 
 def inputString():
@@ -34,13 +43,11 @@ def main():
     print("-- Count words --\n")
 
     shouldContinue = True
-
+    wrdCnt = WordCounter()
     while shouldContinue:
-
         string = inputString()
-        nums = countWords(string)
-        print(f"Word number: {nums}")
-
+        wrdCnt.countWords(string)
+        wrdCnt.showResult()
         should = input("\nContinue (Y/[N]): ")
         if should.upper() != 'Y':
             shouldContinue = False
