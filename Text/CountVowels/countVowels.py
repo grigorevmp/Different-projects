@@ -1,17 +1,33 @@
 # Счётчик гласных
 # Count Vowels
 
-def countVowels(string=None):
-    """
-    :param string: - String to work with
-    :return: - Vowels count
-    """
-    vowels = "aeiou"
-    count = {char: 0 for char in vowels}
-    for char in string:
-        if char in vowels:
-            count[char] += 1
-    return count
+
+class VowelCounter:
+
+    def __init__(self):
+        self.vowels = "aeiou"
+        self.count = {char: 0 for char in self.vowels}
+        self.string = ''
+
+    def countVowels(self, str=None):
+        """
+        :param string: - String to work with
+        :return: - Vowels count
+        """
+        self.string = str
+        for char in self.string:
+            if char in self.vowels:
+                self.count[char] += 1
+
+    def getCount(self):
+        return self.count
+
+    def getString(self):
+        return self.string
+
+    def clearData(self):
+        self.count = {char: 0 for char in self.vowels}
+        self.string = ''
 
 
 def inputString():
@@ -26,18 +42,18 @@ def main():
     """
     Main function
     - Get user's string
-    - Reverse it
+    - Count vowels in it
     """
 
     print("-- Count Vowels --\n")
 
     shouldContinue = True
-
+    vowCnt = VowelCounter()
     while shouldContinue:
 
         string = inputString()
-        nums = countVowels(string)
-        print(f"Vowels number: {nums}")
+        vowCnt.countVowels(string)
+        print(f"Vowels number in \"{vowCnt.getString()}\": {vowCnt.getCount()}")
 
         should = input("\nContinue (Y/[N]): ")
         if should.upper() != 'Y':
