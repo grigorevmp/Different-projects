@@ -6,51 +6,57 @@
 import random
 
 
-def jump():
-    """
-    . -> result
-    """
-    flip = random.random()
-    if flip >= .5:
-        return "head"
-    else:
-        return "tail"
+class Coin:
+
+    def __init__(self):
+        self.heads = 0
+        self.tails = 0
+        self.current = None
+
+    def flip(self):
+        """
+        . -> result
+        """
+        if random.random() >= .5:
+            self.current = "head"
+            self.heads += 1
+        else:
+            self.current = "tail"
+            self.tails += 1
+        return self.current
+
+    def get_stats(self):
+        return self.heads, self.tails, self.current
 
 
 def main():
-    """
-    Main function
-    - Get user's number
-    - Calculate result
-    - Print result
-    """
+        """
+        Main function
+        - Get user's number
+        - Calculate result
+        - Print result
+        """
 
-    print("-- Coin flip --\n")
+        print("-- Coin flip --\n")
 
-    shouldContinue = True
+        shouldContinue = True
+        coin = Coin()
+        heads = 0
+        tails = 0
 
-    heads = 0
-    tails = 0
+        while shouldContinue:
 
-    while shouldContinue:
+            print(coin.flip())
 
-        j = jump()
-
-        if j == "head":
-            heads += 1
-        elif j == "tail":
-            tails += 1
-
-        print(j)
-
-        should = input("\nJump again (Y/[N]): ")
-        if should.upper() != 'Y':
-            print()
-            print(f"Heads: {heads}")
-            print(f"Tails: {tails}")
-            shouldContinue = False
-        else:
-            shouldContinue = True
+            should = input("\nJump again (Y/[N]): ")
+            if should.upper() != 'Y':
+                heads, tails, current = coin.get_stats()
+                print()
+                print(f"Heads: {heads}")
+                print(f"Tails: {tails}")
+                shouldContinue = False
+            else:
+                shouldContinue = True
 
 
 if __name__ == '__main__':
